@@ -4,7 +4,7 @@ public class Parking {
         System.out.println("  NO PARKING");
         System.out.println("2:00 - 6:00 a.m");
         System.out.print("2:00 - 6:00 a.m");
-        
+
     }
     
 }
